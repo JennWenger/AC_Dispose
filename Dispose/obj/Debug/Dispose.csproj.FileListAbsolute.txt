@@ -1,0 +1,7 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\obj\Debug\Dispose.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\obj\Debug\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\bin\Debug\Dispose.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\bin\Debug\Dispose.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\bin\Debug\Dispose.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\obj\Debug\Dispose.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Dispose\Dispose\obj\Debug\Dispose.pdb
